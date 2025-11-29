@@ -5,7 +5,25 @@
 # EDIT: Early Diffusion Inference Termination for dLLMs Based on Dynamics of Training Gradients
 
 <p align="center">
-<a href="https://arxiv.org/abs/"><img src="https://img.shields.io/static/v1?label=Paper&message=Link&color=green" height=20.5></a>
+<a href="https://arxiv.org/abs/">
+  <img src="https://img.shields.io/static/v1?label=Paper&message=Link&color=red" height="20.5">
+</a>
+
+<a href="https://www.python.org/downloads/">
+  <img src="https://img.shields.io/static/v1?label=Python&message=Download&color=blue" height="20.5">
+</a>
+
+<a href="https://opensource.org/licenses/MIT">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" height="20.5">
+</a>
+
+<a href="https://developer.nvidia.com/cuda-zone">
+  <img src="https://img.shields.io/static/v1?label=NVIDIA&message=CUDA%20GPU&color=brightgreen" height="20.5">
+</a>
+
+<a href="https://www.intel.com/content/www/us/en/products/docs/accelerator-engines/xpu/overview.html">
+  <img src="https://img.shields.io/static/v1?label=Intel&message=XPU&color=blue" height="20.5">
+</a>
 </p>
 
 ###### tags: `diffusion language models`, `early termination`, `training metadata`, `reasoning benchmarks`
@@ -548,7 +566,21 @@ python compute_early_exit_diffusion_steps.py -d EDIT_results/gsm8k/seq512/
 ```
 </details>
 
+## Citation
 
-## 🙌 <a name="6"></a> 6. Acknowledgements
+If you find this work helpful for your research, please cite the following paper:
+
+```bibtex
+@article{HsiehWK25,
+  author       = {He{-}Yen Hsieh and
+                  Hong Wang and
+                  H. T. Kung},
+  title        = {EDIT: Early Diffusion Inference Termination for dLLMs Based on Dynamics of Training Gradients},
+  journal      = {arXiv preprint arXiv:},
+  year         = {2025}
+}
+```
+
+## 🙌 <a name="7"></a> 7. Acknowledgements
 
 Big thanks to the authors of [LLaDA](https://github.com/ML-GSAI/LLaDA) and [d1](https://github.com/dllm-reasoning/d1/tree/e20637b0cc4257bdcd00d49d3b571e55776d054f) for their great work. Really appreciate it!
