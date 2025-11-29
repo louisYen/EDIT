@@ -566,7 +566,7 @@ python compute_early_exit_diffusion_steps.py -d EDIT_results/gsm8k/seq512/
 ```
 </details>
 
-## Citation
+## 🔖 <a name="6"></a> 6.Citation
 
 If you find this work helpful for your research, please cite the following paper:
 
