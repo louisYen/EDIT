@@ -13,8 +13,8 @@
   <img src="https://img.shields.io/static/v1?label=Python&message=Download&color=blue" height="20.5">
 </a>
 
-<a href="https://opensource.org/licenses/MIT">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" height="20.5">
+<a href="https://www.apache.org/licenses/LICENSE-2.0">
+  <img src="https://img.shields.io/badge/License-Apache_2.0-F15A29.svg" height="20.5">
 </a>
 
 <a href="https://developer.nvidia.com/cuda-zone">
