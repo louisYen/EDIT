@@ -34,6 +34,10 @@ This repo is the official implementation of "**EDIT: Early Diffusion Inference T
 
 ---
 
+## 🔥 Updates
+
+- Accepted to NeurIPS OPT 2025 Workshop
+
 ## 🛠️ <a name="1"></a> 1. Setup
 
 The project is tested on Python 3.10 and supports two hardware platforms:
@@ -576,7 +580,7 @@ If you find this work helpful for your research, please cite the following paper
                   Hong Wang and
                   H. T. Kung},
   title        = {EDIT: Early Diffusion Inference Termination for dLLMs Based on Dynamics of Training Gradients},
-  journal      = {arXiv preprint arXiv:},
+  booktitle    = {Proceedings of the NeurIPS Workshop on Optimization for Machine Learning},
   year         = {2025}
 }
 ```
