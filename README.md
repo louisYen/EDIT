@@ -5,7 +5,7 @@
 # EDIT: Early Diffusion Inference Termination for dLLMs Based on Dynamics of Training Gradients
 
 <p align="center">
-<a href="https://arxiv.org/abs/">
+<a href="https://arxiv.org/abs/2512.00670">
   <img src="https://img.shields.io/static/v1?label=Paper&message=Link&color=red" height="20.5">
 </a>
 
